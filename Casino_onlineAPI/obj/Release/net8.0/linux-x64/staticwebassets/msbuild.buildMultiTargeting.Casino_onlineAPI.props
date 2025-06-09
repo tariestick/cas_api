@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Casino_onlineAPI.props" />
+</Project>

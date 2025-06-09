@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\copia\\Casino_onlineAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\TransaccionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\servicios\\TransaccionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\controladores\\TransaccionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\controladores\\TransaccionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\controladores\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\controladores\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\controladores\\JuegoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\controladores\\JuegoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\PartidasService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\servicios\\PartidasService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\UsuariosService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\servicios\\UsuariosService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\modelos\\Transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\ITransaccionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\servicios\\ITransaccionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\modelos\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\IUsuariosService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\servicios\\IUsuariosService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\controladores\\PartidasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\controladores\\PartidasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\UsuarioUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\modelos\\UsuarioUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\modelos\\Partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\modelos\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\modelos\\Juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\Casino_onlineAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\Casino_onlineAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\juegoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\servicios\\juegoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\modelos\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\config\\MongoDBService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Casino_onlineAPI\\config\\MongoDBService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransaccionController.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\controladores\\TransaccionController.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\controladores\\TransaccionController.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\controladores\\TransaccionController.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\controladores\\TransaccionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:46:08.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\controladores\\UsersController.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\controladores\\UsersController.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\controladores\\UsersController.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\controladores\\UsersController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwJwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:03:16.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransaccionService.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\TransaccionService.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\servicios\\TransaccionService.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\TransaccionService.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\servicios\\TransaccionService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:34:45.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JuegoController.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\controladores\\JuegoController.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\controladores\\JuegoController.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\controladores\\JuegoController.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\controladores\\JuegoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:24:08.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartidasService.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\PartidasService.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\servicios\\PartidasService.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\PartidasService.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\servicios\\PartidasService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T01:58:37.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\Program.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\Program.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:05:24.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuariosService.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\UsuariosService.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\servicios\\UsuariosService.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\UsuariosService.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\servicios\\UsuariosService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwv6sAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:31:55.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaccion.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Transaccion.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\modelos\\Transaccion.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Transaccion.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\modelos\\Transaccion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:07:48.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITransaccionService.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\ITransaccionService.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\servicios\\ITransaccionService.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\ITransaccionService.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\servicios\\ITransaccionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:03:01.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\modelos\\Usuario.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Usuario.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\modelos\\Usuario.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:12:55.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUsuariosService.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\IUsuariosService.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\servicios\\IUsuariosService.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\IUsuariosService.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\servicios\\IUsuariosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T01:07:53.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\appsettings.json",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\appsettings.json",
+              "RelativeToolTip": "Casino_onlineAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T14:57:44.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PartidasController.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\controladores\\PartidasController.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\controladores\\PartidasController.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\controladores\\PartidasController.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\controladores\\PartidasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T02:06:02.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioUpdateDto.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\UsuarioUpdateDto.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\modelos\\UsuarioUpdateDto.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\UsuarioUpdateDto.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\modelos\\UsuarioUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:09:17.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Partida.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Partida.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\modelos\\Partida.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Partida.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\modelos\\Partida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:06:24.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\modelos\\LoginRequest.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\LoginRequest.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\modelos\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:08:38.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Juego.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\modelos\\Juego.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Juego.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\modelos\\Juego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:04:44.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Casino_onlineAPI.csproj",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\Casino_onlineAPI.csproj",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\Casino_onlineAPI.csproj",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\Casino_onlineAPI.csproj",
+              "RelativeToolTip": "Casino_onlineAPI\\Casino_onlineAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T05:09:51.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "juegoService.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\juegoService.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\servicios\\juegoService.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\servicios\\juegoService.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\servicios\\juegoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:23:03.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Result.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Result.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\modelos\\Result.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\modelos\\Result.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\modelos\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:46:02.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MongoDBService.cs",
+              "DocumentMoniker": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\config\\MongoDBService.cs",
+              "RelativeDocumentMoniker": "Casino_onlineAPI\\config\\MongoDBService.cs",
+              "ToolTip": "E:\\copia\\Casino_onlineAPI\\Casino_onlineAPI\\config\\MongoDBService.cs",
+              "RelativeToolTip": "Casino_onlineAPI\\config\\MongoDBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:16:16.303Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

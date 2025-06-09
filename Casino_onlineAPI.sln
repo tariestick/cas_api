@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino_onlineAPI", "Casino_onlineAPI\Casino_onlineAPI.csproj", "{CDA12EE2-2256-41AC-B7FF-8C8BBB8FAECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA12EE2-2256-41AC-B7FF-8C8BBB8FAECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA12EE2-2256-41AC-B7FF-8C8BBB8FAECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA12EE2-2256-41AC-B7FF-8C8BBB8FAECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA12EE2-2256-41AC-B7FF-8C8BBB8FAECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E999384E-AE20-4E4D-9893-5D4C11F15AC5}
+	EndGlobalSection
+EndGlobal
