@@ -5,7 +5,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
 # Copiamos los archivos del proyecto
-COPY *.csproj ./
+COPY Casino_onlineAPI/*.csproj ./
 
 # Restauramos dependencias
 RUN dotnet restore
